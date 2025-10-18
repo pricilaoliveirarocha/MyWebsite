@@ -54,7 +54,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={`${karla.className} min-h-full w-full`}>
+      <body className={`${karla.className} h-full w-full`}>
         {/* Header fixo no topo */}
         <Header />
 
